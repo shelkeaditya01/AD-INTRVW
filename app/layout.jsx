@@ -15,12 +15,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "PrepBridge - AI-Powered Mock Interview Platform",
-  description: "Master your interviews with PrepBridge. Get instant AI-powered feedback, practice with realistic scenarios, and boost your confidence. Land your dream job today!",
+  title: "AD-INTRVW - AI-Powered Mock Interview Platform",
+  description: "Master your interviews with AD-INTRVW. Get instant AI-powered feedback, practice with realistic scenarios, and boost your confidence. Land your dream job today!",
   keywords: "mock interview, AI interview, interview practice, job preparation, interview feedback, career development",
   authors: [{ name: "Aditya Shelke" }],
   openGraph: {
-    title: "PrepBridge - AI-Powered Mock Interview Platform",
+    title: "AD-INTRVW - AI-Powered Mock Interview Platform",
     description: "Master your interviews with AI-powered feedback and realistic practice scenarios",
     type: "website",
   },

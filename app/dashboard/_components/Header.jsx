@@ -26,7 +26,16 @@ function Header() {
 
   return (
     <div className="flex items-center justify-between p-4 bg-secondary shadow-sm">
-      <img src={"/AIMockerlogo.png"} width={160} height={100} alt="Logo" />
+      <Link href="/" className="flex items-center">
+        <img 
+          src="/AD-logo.png" 
+          width={120} 
+          height={120} 
+          alt="AD-INTRVW Logo" 
+          className="h-14 w-14 object-contain -mr-2 ml-10"
+        />
+        <span className="text-xl font-bold text-gray-900">AD-INTRVW</span>
+      </Link>
 
       {/* Mobile Menu Toggle Button */}
       <button

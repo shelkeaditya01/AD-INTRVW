@@ -11,12 +11,16 @@ export default function Page() {
         <div className="relative w-full lg:w-[60%] flex items-center justify-center bg-gray-900 px-6 py-12">
           {/* Content */}
           <div className="relative z-10 w-full max-w-md text-white text-center lg:text-left">
-            <img
-              src="/PrepBridgeLogo.png"
-              width={130}
-              className="mx-auto lg:mx-0"
-              alt="PrepBridge Logo"
-            />
+            <div className="flex items-center justify-center lg:justify-start mb-6">
+              <img 
+                src="/AD-logo.png" 
+                width={60} 
+                height={60} 
+                alt="AD-INTRVW Logo" 
+                className="h-14 w-14 object-contain -mr-2"
+              />
+              <span className="text-2xl font-bold text-white">AD-INTRVW</span>
+            </div>
 
             <div className="mt-10 space-y-4">
               <h3 className="text-2xl sm:text-3xl lg:text-4xl font-bold leading-snug">
@@ -104,7 +108,16 @@ export default function Page() {
         <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
           {/* Brand Info */}
           <div className="text-center sm:text-left">
-            <h3 className="text-black text-xl font-semibold mb-3">PrepBridge</h3>
+            <div className="flex items-center mb-3">
+              <img 
+                src="/AD-logo.png" 
+                width={48} 
+                height={48} 
+                alt="AD-INTRVW Logo" 
+                className="h-12 w-12 object-contain -mr-2"
+              />
+              <h3 className="text-black text-xl font-semibold">AD-INTRVW</h3>
+            </div>
             <p className="text-sm text-black">
               Crack Interviews. Powered by AI. Driven by You.
             </p>
