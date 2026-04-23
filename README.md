@@ -1,6 +1,6 @@
-# PrepBridge - AI-Powered Mock Interview Platform
+# AD-INTRVW - AI-Powered Mock Interview Platform
 
-PrepBridge is a modern, production-ready AI-powered mock interview platform built with Next.js 15, featuring beautiful UI/UX design and full mobile responsiveness.
+AD-INTRVW is a modern, production-ready AI-powered mock interview platform built with Next.js 15, featuring beautiful UI/UX design and full mobile responsiveness.
 
 ## ✨ Features
 
