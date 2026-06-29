@@ -57,37 +57,37 @@ export default function Home() {
 
   const testimonials = [
     {
-      name: "Sarah Chen",
+      name: "Aditya",
       role: "Software Engineer at Google",
       content: "This platform helped me prepare for my technical interviews. The AI feedback was incredibly accurate and helped me identify my weak points.",
       rating: 5,
     },
     {
-      name: "Michael Rodriguez",
+      name: "Prasad",
       role: "Product Manager at Meta",
       content: "The behavioral interview section was game-changing. I felt so much more confident going into my final round interview.",
       rating: 5,
     },
     {
-      name: "Emily Watson",
+      name: "Gaurav",
       role: "Data Scientist at Amazon",
       content: "Real-time feedback during mock interviews made a huge difference. I could practice as many times as I needed without any time constraints.",
       rating: 5,
     },
     {
-      name: "Alex Johnson",
+      name: "Shubham",
       role: "Backend Developer at Microsoft",
       content: "The platform covers everything from system design to behavioral questions. Absolutely worth the investment in your career.",
       rating: 5,
     },
     {
-      name: "Jessica Lee",
+      name: "Saurabh",
       role: "UX Designer at Apple",
       content: "I loved the detailed performance analytics. Watching my improvement over time was really motivating and kept me engaged.",
       rating: 5,
     },
     {
-      name: "David Patel",
+      name: "Gopal",
       role: "Engineering Manager at Netflix",
       content: "The AI is remarkably good at mimicking real interviewers. The pressure simulation helped me stay calm during actual interviews.",
       rating: 5,
